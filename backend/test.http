@@ -1,0 +1,12 @@
+curl -X PUT "Intent_Integration:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvOjQ0MyQ5ZDcyMDI4YzA0Mzg0MTFkYTFhODYwYWE5ODIyNDE1YSQ2NGFmNGY1MDAxYWY0OWMwYTBkMGU5YjExMzMzY2Q5Mg==/watson-intent-v2?pretty" -H 'Content-Type: application/json' -d'
+{
+  "mappings": {
+    "properties": {
+      "intent": {
+        "type": "search_as_you_type"
+      }
+    }
+  }
+}
+'
+//ELASTIC_CLOUD_ID="Intent_Integration:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvOjQ0MyQ5ZDcyMDI4YzA0Mzg0MTFkYTFhODYwYWE5ODIyNDE1YSQ2NGFmNGY1MDAxYWY0OWMwYTBkMGU5YjExMzMzY2Q5Mg=="

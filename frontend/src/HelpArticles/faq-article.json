@@ -1,0 +1,128 @@
+[
+    {
+        "title": "isa",
+        "articles": [
+            {
+                "label": "What is an ISA? | ISA Guide | NatWest",
+                "link": "https://www.natwest.com/savings/isa-overview/isa-guides.html"
+            },
+            {
+                "label": "Fixed Rate ISA | ISA Rates | NatWest",
+                "link": "https://www.natwest.com/savings/isa-overview/fixed-isa.html"
+            },
+            {
+                "label": "Cash ISA account | Open an ISA online | NatWest",
+                "link": "https://www.natwest.com/savings/isa-overview/cash-isa.html"
+            },
+            {
+                "label": "Junior ISA | Investments | NatWest",
+                "link": "https://www.natwest.com/investments/junior-isa.html"
+            }
+        ]
+    },
+    {
+        "title": "credit",
+        "articles": [
+            {
+                "label": "Cashback Credit Card | Money Back Credit Card | NatWest",
+                "link": "https://www.natwest.com/credit-cards/credit-cards-cashback.html"
+            },
+            {
+                "label": "Reward Black credit card | Premium credit card | NatWest",
+                "link": "https://www.natwest.com/credit-cards/reward-black-credit-card.html"
+            },
+            {
+                "label": "Student Credit Card | NatWest",
+                "link": "https://www.natwest.com/credit-cards/student-credit-card.html"
+            },
+            {
+                "label": "The NatWest Credit Card | NatWest",
+                "link": "https://www.natwest.com/credit-cards/the-natwest-credit-card.html"
+            }
+        ]
+    },
+    {
+        "title": "accountChange",
+        "articles": [
+            {
+                "label": "Make a change to your bank account | NatWest",
+                "link": "https://www.natwest.com/current-accounts/existing-customers/account-signatories.html"
+            },
+            {
+                "label": "Manage my Select Silver Account | NatWest",
+                "link": "https://www.natwest.com/current-accounts/existing-customers/select-silver.html"
+            },
+            {
+                "label": "Manage your bank account | Existing Customer | NatWest",
+                "link": "https://www.natwest.com/current-accounts/existing-customers.html"
+            },
+            {
+                "label": "Manage my Graduate Account | Existing customers | NatWest",
+                "link": "https://www.natwest.com/current-accounts/existing-customers/graduate-account.html"
+            }
+        ]
+    },
+    {
+        "title": "Refund",
+        "articles": [
+            {
+                "label": "Direct-Debit-Scams",
+                "link": "https://www.natwest.com/fraud-and-security/fraud-guide/direct-debit-scams.html"
+            },
+            {
+                "label": "B&Q Gift Card | Trade your rewards with MyRewards | NatWest",
+                "link": "https://www.natwest.com/myrewards/exchange/B-and-Q.html"
+            },
+            {
+                "label": "Morrisons | MyRewards | NatWest",
+                "link": "https://www.natwest.com/myrewards/exchange/morrisons.html"
+            },
+            {
+                "label": "NatWest MyRewards Exchange Retailers | Caffe Nero",
+                "link": "https://www.natwest.com/myrewards/exchange/caffe-nero.html"
+            }
+        ]
+    },
+    {
+        "title": "stolenCard",
+        "articles": [
+            {
+                "label": "Report lost and stolen cards | NatWest",
+                "link": "https://www.natwest.com/banking-with-natwest/how-to/report-lost-and-stolen-cards.html"
+            },
+            {
+                "label": "Freeze card using the app | Lost card | NatWest",
+                "link": "https://www.natwest.com/banking-with-natwest/how-to/freeze-card.html"
+            },
+            {
+                "label": "Report lost and stolen cards | NatWest",
+                "link": "https://www.natwest.com/banking-with-natwest/how-to/report-lost-and-stolen-cards.html"
+            },
+            {
+                "label": "How do I report a lost, stolen or damaged debit card and order a replacement?",
+                "link": "https://supportcentre.natwest.com/Help-with-your-card/Card-delivery/913208892/How-do-I-report-a-lost-stolen-or-damaged-debit-card-and-order-a-replacement.htm"
+            }
+        ]
+    },
+    {
+        "title": "balanceTransfer",
+        "articles": [
+            {
+                "label": "Purchase & Balance Transfer card | NatWest",
+                "link": "https://www.natwest.com/credit-cards/purchase-and-balance-transfer.html"
+            },
+            {
+                "label": "Longer Balance Transfer Card | NatWest",
+                "link": "https://www.natwest.com/credit-cards/longer-balance-transfer.html"
+            },
+            {
+                "label": "Balance Transfer credit card | NatWest",
+                "link": "https://www.natwest.com/credit-cards/balance-transfer-credit-card.html"
+            },
+            {
+                "label": "The NatWest Credit Card | NatWest",
+                "link": "https://www.natwest.com/credit-cards/the-natwest-credit-card.html"
+            }
+        ]
+    }
+]

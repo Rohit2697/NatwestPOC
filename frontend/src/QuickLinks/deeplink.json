@@ -1,0 +1,16 @@
+[
+    {
+        "feature": "Apply",
+        "code": "Apply",
+        "action": "Deeplink directs the customer to the Apply section of the app.",
+        "ios": "Y",
+        "android": "Y"
+    },
+    {
+        "feature": "Apply",
+        "code": "ApplyWithData",
+        "action": "Deeplink directs the customer to the Apply section of the app, all tracking parameters from the deep link URL will be extracted and saved in session cache and will be used to launch web content when an Apply tile is selected",
+        "ios": "Y",
+        "android": "N"
+    }
+]

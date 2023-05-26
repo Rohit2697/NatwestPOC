@@ -1,0 +1,79 @@
+[
+    {
+        "feature": "Apply",
+        "code": "Apply",
+        "action": "Deeplink directs the customer to the Apply section of the app.",
+        "ios": "Y",
+        "android": "Y"
+    },
+    {
+        "feature": "Apply",
+        "code": "ApplyWithData",
+        "action": "Deeplink directs the customer to the Apply section of the app, all tracking parameters from the deep link URL will be extracted and saved in session cache and will be used to launch web content when an Apply tile is selected",
+        "ios": "Y",
+        "android": "Y"
+    },
+    {
+        "feature": "App Theme settings (Dark Mode settings) ",
+        "code": "AppTheme",
+        "action": " Takes user to App Theme setting screen where user can select their preference for Light or Dark Mode, or use the device settings for such",
+        "ios": "Y",
+        "android": "N"
+    },
+    {
+        "feature": "Banking My Way",
+        "code": "BankingMyWay",
+        "action": "Deeplink directs the customer to the start of the Banking My Way journey.",
+        "ios": "Y",
+        "android": "Y"
+    },
+    {
+        "feature": "Android/Apple Pay",
+        "code": "CardPayInfoActivation",
+        "action": "Take user to Android/Apple Pay journey as standard in the app.",
+        "ios": "Y",
+        "android": "Y"
+    },
+    {
+        "feature": "Change of Email",
+        "code": "Change of Email",
+        "action": "Deeplink directs the customers to the Change of Email screen upon succesful eligibility checks.",
+        "ios": "Y",
+        "android": "Y"
+    },
+    {
+        "feature": "Show Me Hub - Coming Soon",
+        "code": "ComingSoonHome",
+        "action": "ComingSoonHome",
+        "ios": "N",
+        "android": "Y"
+    },
+    {
+        "feature": "Credit Cards : Balance Transfer",
+        "code": "CreditCardBalanceTransfer",
+        "action": "CreditCardBalanceTransfer",
+        "ios": "N",
+        "android": "Y"
+    },
+    {
+        "feature": "Edit account nickname",
+        "code": "EditAccountNickName",
+        "action": "Takes user to Edit account nickname page (More -> Settings - Edit account nickname)",
+        "ios": "N",
+        "android": "Y"
+    },
+    {
+        "feature": " Home Insurance Quote",
+        "code": "homeinsurancequote",
+        "action": "In app web view deeplink to initiate home insurance quote journey. Customers will be redirected to the home insurance quote web view.",
+        "ios": "Y",
+        "android": "N"
+    },
+    {
+        "feature": "Change of Address",
+        "code": "PersonalAddressChange",
+        "action": "Takes user to \"Change Address\" screen where user can initiate personal change of address journey",
+        "ios": "Y",
+        "android": "Y"
+    }
+]
